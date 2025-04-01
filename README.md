@@ -60,9 +60,3 @@ This project showcases my ability to:
 - Visualize results using Python (Matplotlib/Seaborn) or Power BI.
 - Expand the dataset with additional metrics (e.g., product categories).
 
-## Contact
-Check out my [LinkedIn](https://linkedin.com/in/your-profile) or email me at your.email@example.com!
-
-## Please feel free to contact me:
-
-LinkedIn: https://www.linkedin.com/in/attila-kormos-8a0ba9348/
